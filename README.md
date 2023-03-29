@@ -4,7 +4,7 @@
 
 ### 1 .Clone/Fork the git repo  
                     
-**Windows**
+
           
 ```bash
 git clone https://github.com/Dev-Elie/Flask-Docker-App.git
@@ -16,7 +16,6 @@ py -3 -m venv venv
 
 ```
 docker build --tag python-docker .
-
 ```
 
 ### 3. Check the image 
