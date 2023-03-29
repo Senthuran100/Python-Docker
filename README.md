@@ -3,15 +3,11 @@
 ## Set up & Installation.
 
 ### 1 .Clone/Fork the git repo  
-                    
-
-          
-```bash
-git clone https://github.com/Dev-Elie/Flask-Docker-App.git
-cd Flask-Docker-App
-py -3 -m venv venv
-
+                              
 ```
+git clone https://github.com/Dev-Elie/Flask-Docker-App.git
+```
+
 ### 2 . Build a Docker Images
 
 ```
