@@ -25,3 +25,13 @@ docker images
 ```
 docker run -d -p 5000:5000 python-docker
 ```
+
+# Deploy in the GCP Cloud Run.
+
+![Depoloyment Workflow](image30.jpeg)
+
+Using the cloudbuild.yaml configure the cloud build.
+
+Docker image will be saved in the GCP container Registry.
+
+Then the docker image will be deployed in the Cloud Run.
